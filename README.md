@@ -1,2 +1,0 @@
-# React_prac
-practice
